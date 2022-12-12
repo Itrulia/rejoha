@@ -35,7 +35,7 @@ and then navigate your browser to `http://localhost:3333/<article-id>`. This wil
 
 After this is done, you will have to start the printing on your phone via the scribit app.
 
-## Things issing
+## Things missing
 
 1. Incremental image building
 2. Deleting already drawn images
